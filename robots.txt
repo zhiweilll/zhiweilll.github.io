@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhiweilll.github.io/sitemap.xml
+Sitemap: https://zhiweilll.github.iozhiweilll/sitemap.xml
